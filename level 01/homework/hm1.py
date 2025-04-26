@@ -17,5 +17,5 @@ familymember3 = "soso"
 familymember4 = "nunu"
 
 #fifth task
-"dog" = True
-"parrot" = False
+dog = True
+parrot = False
