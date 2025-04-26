@@ -1,9 +1,21 @@
+#first task
 name = "soso"
 
-surname = "khutsishvili"
- 
-age = 17
+#second task
+colour1 = "dark red"
+colour2= "yellow"
 
-height = 178 
+#third task
+firstfriend = 14
+secondfriend = 16
+thirdfriend = 18
 
-print(name + "_" + str(surname) + "_" + str(age) + "_" + str(height))
+#fourth task
+familymember1 = "zviadi"
+famillymember2 =  "Nino"
+familymember3 = "soso"
+familymember4 = "nunu"
+
+#fifth task
+"dog" = True
+"parrot" = False
