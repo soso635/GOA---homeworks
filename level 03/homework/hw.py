@@ -10,7 +10,7 @@ print(name, surname, age)
 
 #3) ეცადეთ, რომ ლამაზად გამოიტანოთ ტერმინალში.
 
-print("hello," "my name is" " " + name  +" " "my surname is" " " + surname, "i am" " " +  str(age)  + " " "years old"  )
+print("hello, " "my name is" " " + name  +" " "my surname is" " " + surname, "i am" " " +  str(age)  + " " "years old"  )
 
  #შექმენით 5 ცვლადი სადაც შეინახავთ რიცხვებს. ამ ცვლადებზე უნდა მოახდინოთ ოპერაციები, მაგალითად მიმატება, გამოკლება, გამრავლება და გაყოფა. 
 
