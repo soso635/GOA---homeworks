@@ -39,20 +39,20 @@ else:
 
 x = int(input("enter ur num: "))
 y = int(input("enter ur num: "))
-positive_num = True
-if x and y == positive_num:
+
+if x and y > 0:
     print("both num is positive")
 
 x = int(input("enter ur num: "))
 y = int(input("enter ur num: "))
-positive_num = True
-if x or y == positive_num:
+
+if x or y > 0:
     print("one of them is positive")
 
 x = int(input("enter ur num: "))
 y = int(input("enter ur num: "))
-positive_num = True
-if x or y != positive_num:
+
+if x or y <= 0:
     print("none of them is positive")
 
 
