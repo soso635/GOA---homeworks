@@ -14,4 +14,4 @@ print(lst)
 #3) შექმენით სასურველი სია და გაიგეთ მისი სიგრძე
 
 my_lst = [input(), input(), input()]
-print(my_lst[len(my_lst)-1])
+print([len(my_lst)- 1])
