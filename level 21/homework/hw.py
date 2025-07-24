@@ -34,7 +34,7 @@ print(letters[6::-1])
 
 
 items = ['x', 'y', 'z', 'a', 'b', 'c', 'd']
-print(items[1::3])
+print(items[1:4:2]+ items[6:7])
 
 
 
