@@ -1,0 +1,23 @@
+.box{
+    
+    padding: 80px; color: black; background-color: blue;
+    border: 100px; color: red; background-color: darkred;
+    margin: 120px; color: blue; background-color: darkblue;
+
+
+}
+
+#boxx{
+  
+       padding: 80px; color: blue; background-color: aqua;
+    border: 100px; color: red; background-color: rebeccapurple;
+    margin: 120px; color: bisque; background-color: darkorange;
+
+}
+
+
+.boxxx{
+        padding: 80px; color: orange; background-color: mediumturquoise;
+    border: 100px; color: violet; background-color: mintcream;
+    margin: 120px; color: aquamarine; background-color: beige;
+}

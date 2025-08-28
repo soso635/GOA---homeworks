@@ -1,0 +1,29 @@
+#fundamentebi{
+
+    color: red; 
+    background-color: black;
+
+}
+
+.padding{
+
+     padding: 55px;
+     background-color: rebeccapurple;
+
+}
+
+.border{
+
+    border: 60px;
+    background-color: chocolate;
+
+
+}
+
+
+.margin{
+
+    margin: 75px;
+    color: aqua;
+
+}
