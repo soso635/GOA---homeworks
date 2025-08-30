@@ -1,0 +1,33 @@
+#container{
+
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+
+
+
+
+
+
+.ola{
+
+    color: red;
+    background-color: black;
+
+}
+
+
+
+
+#world{
+
+
+
+    color: red;
+
+
+    
+
+}
