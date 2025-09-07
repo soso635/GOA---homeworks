@@ -1,0 +1,9 @@
+#container{
+
+    font-size: larger;
+    height: 100px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
