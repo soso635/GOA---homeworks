@@ -1,0 +1,56 @@
+.container{
+
+display: flex;
+
+align-items: center;
+
+flex-direction: column;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.x1{
+       
+    
+
+
+
+    background-color: brown;
+
+}
+
+#x2{
+
+
+
+    
+
+    color: red;
+
+
+}
+
+
+
+.x3{
+
+
+
+
+   
+
+ color: blue;
+
+}

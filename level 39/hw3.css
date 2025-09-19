@@ -1,0 +1,55 @@
+.x1{
+       
+    
+display: flex;
+justify-content: start;
+
+}
+
+#x2{
+
+
+
+    display: flex;
+    justify-content: center;
+
+    color: red;
+
+
+}
+
+
+
+.x3{
+
+ display: flex;
+    justify-content: center;
+
+
+   
+
+ color: blue;
+
+}
+
+
+
+
+
+
+.x4{
+
+ display: flex;
+    justify-content: center;
+
+   
+}
+
+
+.x5{
+
+display: flex;
+
+justify-content: end;
+
+}

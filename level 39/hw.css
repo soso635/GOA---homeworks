@@ -1,0 +1,55 @@
+
+.container{
+
+display: flex;
+
+    justify-content: center;
+
+display: inline;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.x1{
+       
+    
+display: inline;
+
+
+    background-color: brown;
+
+}
+
+#x2{
+
+
+  display: inline;
+
+    
+
+    color: red;
+
+
+}
+
+
+
+.x3{
+
+
+display: inline;
+
+   
+
+ color: blue;
+
+}
